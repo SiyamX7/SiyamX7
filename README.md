@@ -4,7 +4,7 @@ I'm currently doing Competitive Programming.<br>Making a strong grasp on Data St
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammad.siyam.officialwork@gmail.com) 
-[![Codeforces](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://codeforces.com/profile/SiyamX7) 
+[![Codeforces]](https://codeforces.com/profile/SiyamX7) 
 
 
 # 💻 Tech Stack:
