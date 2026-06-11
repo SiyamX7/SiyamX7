@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing Competitive Programming.<br>Making a strong grasp on Data Structures and Algorithms.<br>Will be doing it for some times.
+I'm currently doing Competitive Programming.<br>Making a strong grasp on Data Structures and Algorithms.<br>Started doing Machine Learning
 
 
 ## 🌐 Socials:
