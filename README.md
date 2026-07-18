@@ -30,8 +30,7 @@ Computer Science student from Bangladesh.
 Interested in:
 • Competitive Programming
 • Machine Learning
-• Linux & KDE Plasma
-• Backend Engineering
+• Linux
 • Open Source
 
 Currently learning how systems, algorithms,
