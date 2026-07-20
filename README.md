@@ -25,7 +25,7 @@ Building things I enjoy, learning things I don't understand yet.
 ```bash
 $siyam
 
-Computer Science student from Bangladesh.
+ICT student from Islamic University, Bangladesh.
 
 Interested in:
 • Competitive Programming
@@ -54,13 +54,13 @@ Linux                    ████████░░░░░░░░
 ### Languages
 
 ```text
-C • C++ • Java • Python
+C • C++ • Java • Python 
 ```
 
 ### Machine Learning
 
 ```text
-NumPy • Pandas • Matplotlib • Scikit-Learn
+NumPy • Pandas • Matplotlib • Scikit-Learn etc.
 ```
 
 ### Tools
