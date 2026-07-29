@@ -42,9 +42,9 @@ and intelligent models work under the hood.
 ## ~/focus
 
 ```text
+Machine Learning         ██████████████░░ 
 Competitive Programming  ████████████░░░░ 
-Machine Learning         █████████░░░░░░░ 
-Linux                    ████████░░░░░░░░ 
+Linux                    ████████████░░░░ 
 ```
 
 ---
@@ -54,7 +54,7 @@ Linux                    ████████░░░░░░░░
 ### Languages
 
 ```text
-C • C++ • Java • Python 
+C • C++ • Java • Python • Matlab • Shell
 ```
 
 ### Machine Learning
@@ -68,38 +68,6 @@ NumPy • Pandas • Matplotlib • Scikit-Learn etc.
 ```text
 Git • Linux • KDE Plasma • Qt/QML • MySQL
 ```
-
----
-
-## ~/projects
-
-### 🌌 Meteoris
-
-A KDE Plasma 6 widget designed for clean and efficient system monitoring.
-
-Features:
-
-- CPU Usage
-- RAM Usage
-- Network Speed
-- Customizable Appearance
-- Plasma Native Integration
-
-Repository:
-
-https://github.com/SiyamX7/meteoris-kde-widget
-
----
-
-## ~/stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SiyamX7&show_icons=true&theme=catppuccin_mocha&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiyamX7&layout=compact&theme=catppuccin_mocha&hide_border=true"/>
-
-</p>
 
 ---
 
