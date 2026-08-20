@@ -4,7 +4,7 @@
 
 ### Competitive Programming • Machine Learning • Linux
 
-Building things I enjoy, learning things I don't understand yet.
+Learning new things everyday, Building whatever I want, Living my live, Finding peace through my work.
 
 <br>
 
@@ -60,7 +60,7 @@ C • C++ • Java • Python • Matlab • Shell
 ### Machine Learning
 
 ```text
-NumPy • Pandas • Matplotlib • Scikit-Learn etc.
+NumPy • Pandas • Matplotlib • Scikit-Learn • PyTorch
 ```
 
 ### Tools
